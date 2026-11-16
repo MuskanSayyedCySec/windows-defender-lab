@@ -1,0 +1,28 @@
+MICROSOFT DEFENDER HEALTH REPORT
+Generated : 16/11/2026 16:25
+Device    : LAB-PC
+Period    : last 7 day(s)
+Overall   : HEALTHY
+
+PROTECTION STATUS
+Real time protection      : True
+Behaviour monitoring      : True
+Tamper Protection         : True
+PUA protection (1 = on)   : 1
+Controlled Folder Access  : 1
+ASR rules in block mode   : 4 of 4
+
+SIGNATURES AND SCANS
+Signature version         : 1.463.329.0
+Signature age (days)      : 0
+Last quick scan           : 15/11/2026 19:37
+
+DETECTIONS AND ACTIONS
+Detections recorded       : 7
+Distinct threats          : 3
+Active threats            : 0
+Event 1116 Threat detected                           : 8
+Event 1117 Action taken on threat                    : 7
+Event 1121 ASR rule blocked an action                : 0
+Event 1122 ASR rule audited an action                : 1
+Event 1123 Controlled Folder Access blocked a change : 1
